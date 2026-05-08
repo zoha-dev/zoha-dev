@@ -17,7 +17,12 @@
 </p>
 
 ---
+## GitHub Analytics
 
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zoha-dev&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zoha-dev&theme=tokyonight" />
+</p>
 ### GitHub Stats
 
 <p align="center">
