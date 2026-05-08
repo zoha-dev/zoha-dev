@@ -7,44 +7,47 @@
 
 ### Languages & Tools:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### GitHub Stats:
+### GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=zoha-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" 
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=zoha-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
   />
 </p>
 
 ---
 
-### Streak Stats:
+### Top Languages
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=zoha-dev&theme=tokyonight" 
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoha-dev&layout=compact&theme=tokyonight&count_private=true"
   />
 </p>
 
 ---
 
-### Top Languages:
+### Streak Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoha-dev&layout=compact&theme=tokyonight&count_private=true&langs_count=10&cache_seconds=86400" 
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com?user=zoha-dev&theme=tokyonight"
   />
 </p>
-
----
 <!--
 **zoha-fathima/zoha-fathima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
