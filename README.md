@@ -23,26 +23,6 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zoha-dev&theme=tokyonight" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zoha-dev&theme=tokyonight" />
 </p>
-### GitHub Stats
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=zoha-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
-  />
-</p>
-
----
-
-### Top Languages
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoha-dev&layout=compact&theme=tokyonight&count_private=true"
-  />
-</p>
-
 ---
 
 ### Streak Stats
