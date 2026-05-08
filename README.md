@@ -15,16 +15,18 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
-
 ---
+
 ## GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zoha-dev&theme=tokyonight" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zoha-dev&theme=tokyonight" />
 </p>
+
 ---
-### Streak Stats
+
+## Streak Stats
 
 <p align="center">
   <img
@@ -32,6 +34,8 @@
     src="https://streak-stats.demolab.com?user=zoha-dev&theme=tokyonight"
   />
 </p>
+
+---
 <!--
 **zoha-fathima/zoha-fathima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
