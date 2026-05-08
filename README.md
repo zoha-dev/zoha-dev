@@ -18,19 +18,19 @@
 
 ### GitHub Stats:
 
-![Zoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devzeehere&show_icons=true&theme=tokyonight&cache_seconds=60)
+![Zoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoha-dev&show_icons=true&theme=tokyonight&cache_seconds=60)
 
 ---
 
 ### Streak Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devzeehere&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zoha-dev&theme=tokyonight)
 
 ---
 
 ### Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devzeehere&layout=compact&theme=tokyonight&cache_seconds=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoha-dev&layout=compact&theme=tokyonight&cache_seconds=1)
 
 ---
 
