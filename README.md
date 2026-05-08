@@ -10,6 +10,7 @@
 ### Languages & Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -18,22 +19,21 @@
 
 ### GitHub Stats:
 
-![Zoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoha-dev&show_icons=true&theme=tokyonight&cache_seconds=60)
+![Zoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoha-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
 ### Streak Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zoha-dev&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=zoha-dev&theme=tokyonight&hide_border=true)
 
 ---
 
 ### Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoha-dev&layout=compact&theme=tokyonight&cache_seconds=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoha-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
 
 ---
-
 
 <!--
 **zoha-fathima/zoha-fathima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
